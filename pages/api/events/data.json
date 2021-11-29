@@ -1,0 +1,40 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "Throwback Fridays with FemiDevs Band",
+            "slug": "throwback-fridays-femidevs",
+            "venue": "Horizon Center",
+            "address": "600, 13th Avenue, Kisumu",
+            "performance": "DJ Mogina",
+            "date": "November 15 2021",
+            "time": "9.00 PM GMT+3",
+            "description": "featuring dances, party anthems and nostalgic songs from the best years of music",
+            "image":"/images/sample/event1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Dance Festival Experince",
+            "slug": "dance-festival-experince",
+            "venue": "RackJacks",
+            "address": "1100, 23rd Avenue, Kisumu",
+            "performance": "DJ Jean",
+            "date": "November 20 2021",
+            "time": "9.00 PM GMT+3",
+            "description": "featuring classicals, violins and party songs from the early 2000s",
+            "image":"/images/sample/event2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Music Festival Experince",
+            "slug": "music-festival-experince",
+            "venue": "LakeHub",
+            "address": "2200, 23rd Avenue, Kisumu",
+            "performance": "DJ Bella",
+            "date": "November 28 2021",
+            "time": "9.00 PM GMT+3",
+            "description": "featuring classicals, violins and party songs from the early 2000s",
+            "image":"/images/sample/event3.jpg"
+        }
+    ]
+}
