@@ -1,0 +1,32 @@
+.event{
+    position: relative;
+    padding-top: 40px;
+}
+.evnt h3{
+    font-size: 25px;
+}
+.event p{
+    margin:10px 0;
+}
+.controls{
+    position: absolute;
+    right: 30px;
+    top: 0;
+}
+.edit{
+color: green;
+margin-left:20px ;
+}
+.delete{
+color: red;
+margin-left: 20px;
+}
+.image{
+    margin-bottom: 50px;
+}
+.back{
+    display: block;
+    margin-top: 40px;
+    color:red;
+    font-weight: bold;
+}
